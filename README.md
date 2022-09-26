@@ -1,1 +1,1 @@
-# Programming-Fundamentals-with-JavaScript---September-2022
+# Programming-Fundamentals-with-JavaScript-September-2022
